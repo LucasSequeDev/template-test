@@ -1,0 +1,7 @@
+const suma = 'gg'
+
+function calculadora(a, b) {
+  return <%= env.parametroA %>  + b
+}
+
+console.log(suma)
